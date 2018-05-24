@@ -1,10 +1,9 @@
-//
-//  SFIncident.swift
-//  SFAwarenessProgram
-//
-//  Created by Ahyathreah Effi-yah on 3/3/16.
-//  Copyright © 2016 TrhUArrayLUV. All rights reserved.
-//
+/*********************************************************************
+ ** Program name: SF Awareness Informer
+ ** Author: Vinny Harris-Riviello
+ ** Date: March 3, 2016
+ ** Description: struct to represent the data about incidents in SF.
+ *********************************************************************/
 
 import Foundation
 import MapKit

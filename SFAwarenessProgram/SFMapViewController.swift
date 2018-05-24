@@ -1,10 +1,10 @@
-//
-//  SFMapViewController.swift
-//  SFAwarenessProgram
-//
-//  Created by Ahyathreah Effi-yah(Vinny Harris-Riviello) on 3/3/16.
-//  Copyright © 2016 TrhUArrayLUV. All rights reserved.
-// Currently using Swift 2.1
+/*********************************************************************
+ ** Program name: SF Awareness Informer
+ ** Author: Vinny Harris-Riviello
+ ** Date: March 3, 2016
+ ** Description: Main View Controller renders the map with incidents
+ ** by district.
+ *********************************************************************/
 
 import UIKit
 import MapKit

@@ -1,10 +1,9 @@
-//
-//  SFAnnotation.swift
-//  SFAwarenessProgram
-//
-//  Created by Ahyathreah Effi-yah on 3/3/16.
-//  Copyright © 2016 TrhUArrayLUV. All rights reserved.
-//
+/*********************************************************************
+ ** Program name: SF Awareness Informer
+ ** Author: Vinny Harris-Riviello
+ ** Date: March 3, 2016
+ ** Description: class Annotation for adding incidents to the map
+ *********************************************************************/ 
 
 import Foundation
 import MapKit
